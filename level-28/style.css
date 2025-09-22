@@ -1,0 +1,4 @@
+#garden {
+  display: grid;
+  grid-template: 1fr repeat(4, 0fr) 50px / 1fr 4fr;
+}
